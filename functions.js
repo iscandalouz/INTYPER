@@ -93,6 +93,9 @@ function getRespostas() {
         case 'bandeiras':
             lista = bandeiras;
             break;
+        case 'bandeiras':
+            lista = alimentos2;
+            break;
     }
 
     var palavraChave = $('#gartips_search').val();
