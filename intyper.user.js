@@ -1,11 +1,11 @@
 
 // ==UserScript==
 // @grant  		 none
-// @name         Gartips
-// @namespace    gartips
+// @name         INTYPER
+// @namespace    INTYPER
 // @version      1.0.2
 // @description  Mostra possíveis respostas quando tiver Dicas na tela - Desenho Animado, GoT, Animais, Alimentos, Objetos, Verbos
-// @author       Neek Mikaelson
+// @author       THEO
 // @match        https://gartic.com.br/*
 // @run-at       document-end
 // @require		 http://code.jquery.com/jquery-3.3.1.min.js
