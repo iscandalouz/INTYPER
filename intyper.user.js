@@ -10,7 +10,6 @@
 // @run-at       document-end
 // @require		 http://code.jquery.com/jquery-3.3.1.min.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/alimentos.js
-// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/alimentos2.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/animais.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/bandeiras.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/desenho_animado.js
