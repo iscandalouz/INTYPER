@@ -9,10 +9,10 @@
 // @match        https://gartic.com.br/*
 // @run-at       document-end
 // @require		 http://code.jquery.com/jquery-3.3.1.min.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/alimentos.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/alimentos.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/alimentos2.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/animais.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/bandeiras.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/animais.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/bandeiras.js
 // @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/desenho_animado.js
 // @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/got.js
 // @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/objetos.js
