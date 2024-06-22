@@ -11,6 +11,7 @@
 var salas = {};
 
 salas['alimentos'] = { nome: 'alimentos', arr: alimentos };
+salas['alimentos2'] = { nome: 'alimentos2', arr: alimentos2 };
 salas['animais'] = { nome: 'animais', arr: animais };
 salas['bandeiras'] = { nome: 'bandeiras', arr: bandeiras };
 salas['desenho_animado'] = { nome: 'desenho_animado', arr: desenho_animado };
