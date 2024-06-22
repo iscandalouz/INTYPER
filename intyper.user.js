@@ -4,7 +4,7 @@
 // @name         INTYPER
 // @namespace    INTYPER
 // @version      1.0.2
-// @description  Mostra possíveis respostas quando tiver Dicas na tela - Desenho Animado, GoT, Animais, Alimentos, Objetos, Verbos
+// @description  MOSTRA POSSIVEIS RESPOSTAS DE DICAS NO GARTIZ
 // @author       THEO
 // @match        https://gartic.com.br/*
 // @run-at       document-end
