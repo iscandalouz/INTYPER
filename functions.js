@@ -81,7 +81,7 @@ function getRespostas() {
         case 'alimentos':
             lista = alimentos;
             break;
-             case 'alimentos2':
+        case 'alimentos2':
             lista = alimentos2;
             break;
         case 'objetos':
