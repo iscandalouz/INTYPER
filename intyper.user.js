@@ -13,14 +13,14 @@
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/alimentos2.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/animais.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/bandeiras.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/desenho_animado.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/got.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/objetos.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/verbos.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/config.js
-// @require		 https://raw.githubusercontent.com/neekm/gartips/master/functions.js
-// @downloadURL  https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
-// @updateURL    https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/desenho_animado.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/got.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/objetos.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/verbos.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/config.js
+// @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/functions.js
+// @downloadURL  https://raw.githubusercontent.com/iscandalouz/INTYPER/master/INTYPER.user.js
+// @updateURL    https://raw.githubusercontent.com/iscandalouz/INTYPER/master/INTYPER.user.js
 // ==/UserScript==
 
 
