@@ -19,8 +19,8 @@
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/salas/verbos.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/config.js
 // @require		 https://raw.githubusercontent.com/iscandalouz/INTYPER/master/functions.js
-// @downloadURL  https://raw.githubusercontent.com/iscandalouz/INTYPER/master/intyper.user.js
-// @updateURL    https://raw.githubusercontent.com/iscandalouz/INTYPER/master/intyper.user.js
+// @downloadURL  https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
+// @updateURL    https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
 // ==/UserScript==
 
 
