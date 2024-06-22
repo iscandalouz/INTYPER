@@ -7,7 +7,20 @@
 // @description  Mostra possíveis respostas quando tiver Dicas na tela - Desenho Animado, GoT, Animais, Alimentos, Objetos, Verbos
 // @author       THEO
 // @match        https://gartic.com.br/*
-
+// @run-at       document-end
+// @require		 http://code.jquery.com/jquery-3.3.1.min.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/alimentos.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/animais.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/bandeiras.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/desenho_animado.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/got.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/objetos.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/salas/verbos.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/config.js
+// @require		 https://raw.githubusercontent.com/neekm/gartips/master/functions.js
+// @downloadURL  https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
+// @updateURL    https://raw.githubusercontent.com/neekm/gartips/master/gartips.user.js
+// ==/UserScript==
 
 
 /** ================
